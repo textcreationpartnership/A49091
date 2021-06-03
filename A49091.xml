@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Londons declaration, in the defence of the citisens now in arms concerning certain aspersions cast upon them, some calling them traitors and rebels to the king : of which, they here nobley cleere themselves, proving of themselves to the whole kingdom, in stead of traytors and rebels, carefull, true and loyall subjects both to king and kingdome.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49091</idno><idno type="EEBO-CITATION">12961086</idno>
+  <idno type="VID">96075</idno>
+  <idno type="EEBO-PROQUEST">2240907071</idno>
+  
+            <idno type="STC">Wing L2922</idno>
+            <idno type="STC">ESTC R2827</idno>
+            <idno type="OCLC">12961086</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49091)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96075)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 257:E181, no 40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Londons declaration, in the defence of the citisens now in arms concerning certain aspersions cast upon them, some calling them traitors and rebels to the king : of which, they here nobley cleere themselves, proving of themselves to the whole kingdom, in stead of traytors and rebels, carefull, true and loyall subjects both to king and kingdome.</title>
+               </titleStmt>
+               <extent>[2], [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Greensmith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">London (England) --  History --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96075:1"/>
+            <p>LONDONS DECLARATION, <hi>IN</hi> THE DEFENCE <hi>OF THE</hi> CITISENS now in Arms.</p>
+            <p>
+               <hi>CONCERNING,</hi> CERTAIN ASPERSIONS cast upon them; some calling them Traitors and Rebels to the King.</p>
+            <p>
+               <hi>OF WHICH,</hi> They here nobly cleere themselves, proving of themselves to the whole Kingdome, in stead of Traytors and Rebels, carefull, true, and Loy<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll Subjects both to <hi>King and Kingdome.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>IOHN GREENSMITH,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:96075:2"/>
+            <pb facs="tcp:96075:2"/>
+            <head>London's DECLARATION, <hi>IN</hi> THE DEFENCE OF THE Citizens now in Arms; concerning cer<g ref="char:EOLhyphen"/>tain aspersions cast upon them: Some calling them Traitors and Re<g ref="char:EOLhyphen"/>bels to the King, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas reports neither honest nor just have blown up and down the kingdome, that we the Citizens of Lon<g ref="char:EOLhyphen"/>don, have done little lesse then risen up in Armes against King <hi>Charles,</hi> sole and law<g ref="char:EOLhyphen"/>full heir apparent to the crown of England, our most loyall Soveraign: We to clear our selves of so unjust aspersions, here to declare
+<pb facs="tcp:96075:3"/>to the whole Kingdome our loyall intents, howsoever disloyally taken.</p>
+            <p>To take up arms against our soveraign we acknowledge and confesse i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be no other<g ref="char:EOLhyphen"/>wise then capitall Treason, which should we go about to do, we were worthie to be pro<g ref="char:EOLhyphen"/>cl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imed Rebels and Traitors to both King and Country, but such were not our thoughts; for why, it stands unto no sence, that we, who by peaceable trading maintain both our selves and families, should go about to disturb that peace, to the utter un<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oing of our selves and families. Were it nor a madnesse for a Mer<g ref="char:EOLhyphen"/>chant, having a ship well fraughted with rich merchandises, and a fair wind to bring it to land, then wilfully to burn his own ship; even so would it be with us, should we go about to destroy our selves and estates, when we may live peaceably and quiet; no, our intents are not for rebellion, but for supporting of true Religion, which for, a time hath as it were slept in oblivion, and now is the onely time to awaken it or never.</p>
+            <p>If it be rebellion for the hand to give suste<g ref="char:EOLhyphen"/>nance to the mouth, and consequently to the whole body, then may it bee said that vvee are rebels for going about to ayd and assist those which are as the mouth of the Commonalty (religious Knights and Burgesses we meane) who are bound by their places to demonstrate our Greevances.</p>
+            <pb facs="tcp:96075:3"/>
+            <p>Put a <hi>Quere</hi> may be made, whither those which wee t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke be our friend, are not the Kings soes, and co<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sequently the whole king<g ref="char:EOLhyphen"/>domes. To such (if <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny such) <hi>Que<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> be, wee thus answer.</p>
+            <p>If any of our Knig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts or Burgesses can bee proved so to be (traytors to his Majesty wee say) and we should goe about to uphold them in any such mischievous attempts, we should againe prove our selves guilty of Rebellion, which far be from us: if any Knights or Bur<g ref="char:EOLhyphen"/>gesses whatsoever be knowne, nay, but suspe<g ref="char:EOLhyphen"/>cted to be guilty of treason, either toward his Majestie, or Majesties Kingdome, we would so far be from joyning with them, that with all our power and strength, we would endeavour (being commanded) to deliver them up; with this <hi>proviso,</hi> they comming to a tryall, malice or envie may not be their accuser.</p>
+            <p>We further also declare, that whereas it hath beene reported that the Major part of the city, being encouraged thereunto by the governors thereof, are intended to alter our Protestant Religion, and bring it to a Sect called <hi>Brow<g ref="char:EOLhyphen"/>nists,</hi> which we utterly abhor and deny, desi<g ref="char:EOLhyphen"/>ring nothing more but a setled government nailed in the Church, all popish Ceremonies being abolished, and the founders of them made exemplary well-affected Ministers, being
+<pb facs="tcp:96075:4"/>chosen in their places, for so long as lazie droans are suffered to feed in the hives of labo<g ref="char:EOLhyphen"/>rious Ministers, there is no hope that either the Gospell will flourish or Peace continue with<g ref="char:EOLhyphen"/>our borders.</p>
+            <p>We also the Citiz<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns of <hi>London</hi> doe further declare, really and truly without the least in<g ref="char:EOLhyphen"/>tent of Hipocrisie, that our intents are still good towards his Majesty, and have the rather published this Declaration, to the intent that no city or village whatsoever should take ani<g ref="char:EOLhyphen"/>mation from us to arise vp in arms: it is our prayer that our meaning be not misconstrued by any, thinking that we are in arms to offend the King; whereas God is our witnesse, wee will chuse rather to defend him, and doe not feare but by the helpe and assistance of God, but that very briefly the whole kingdome will confesse, that those men which were in Arms to defend the House of Commons, are as rea<g ref="char:EOLhyphen"/>dy to be opened in the defence of the King.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96075:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
